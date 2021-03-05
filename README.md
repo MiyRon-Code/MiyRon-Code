@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=MiyRon-Code&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=MiyRon-Code&show_icons=true&theme=gruvbox)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyRon-Code&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyRon-Code&theme=gruvbox)
 
 <!--
 **MiyRon-Code/MiyRon-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
