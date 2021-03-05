@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=MiyRon-Code&show_icons=true&theme=radical&title_color=ff0000&text_color=ffffff&icon_color=ff3e3e)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyRon-Code&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyRon-Code&theme=radical&title_color=ff0000&text_color=ffffff&icon_color=ff3e3e)
 
 <!--
 **MiyRon-Code/MiyRon-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
