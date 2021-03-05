@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyRon-Code)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=chartreuse-dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyRon-Code)](https://github.com/anuraghazra/github-readme-stats&bg_color=00ff7f)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyRon-Code&theme=tokyonight)
 
